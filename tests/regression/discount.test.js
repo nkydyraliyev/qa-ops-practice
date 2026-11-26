@@ -29,5 +29,9 @@ describe('Regression: discount', () => {
     assert.throws(() => applyDiscount(-1, 'SALE10'), RangeError);
   });
 
+  test('SALE50 gives 50% off', () => {
+    assert.equal(applyDiscount(80, 'SALE50'), 40);
+  }); ///added
+
   test('refund flow', { skip: 'BUG-123: refunds are not implemented yet' }, () => {});
 });
