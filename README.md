@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # qa-ops-practice (KP2)
+=======
+# QA Ops practice
+>>>>>>> origin/main
 
 Учебный проект для практики к квалификации **QA Ops KP2**: Git, Pull Request, Jenkins (запуск джоб с параметрами, разбор падений, логи узлов, ускорение прогона) и Docker (запуск контейнеров, сборка образа из готового Dockerfile).
 
