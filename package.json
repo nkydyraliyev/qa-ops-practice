@@ -1,7 +1,7 @@
 {
   "name": "qa-ops-practice",
   "version": "1.0.0",
-  "description": "Учебный проект для практики Git, Jenkins и Docker (QA Ops KP2)",
+  "description": "Учебный проект для практики Git, Jenkins и Docker (QA Ops KP2), changed",
   "private": true,
   "main": "src/server.js",
   "engines": {
