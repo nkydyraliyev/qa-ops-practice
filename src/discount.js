@@ -4,6 +4,7 @@
 const CODES = {
   SALE10: 10,
   SALE25: 25,
+  SALE50: 50,
 };
 
 /**
