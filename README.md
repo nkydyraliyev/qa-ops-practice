@@ -51,3 +51,4 @@ npm start                               # приложение на http://local
 | `timeout` | Шаг ждёт 120 с при лимите 20 с | ABORTED |
 
 ## Check
+## Check2
