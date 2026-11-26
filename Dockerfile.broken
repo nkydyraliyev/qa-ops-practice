@@ -1,0 +1,7 @@
+# Учебный СЛОМАННЫЙ Dockerfile — только для задания на чтение ошибки сборки.
+# docker build -f Dockerfile.broken -t qa-practice:broken .
+FROM node:22-alpine
+WORKDIR /app
+COPY package.json ./
+COPY source ./src
+CMD ["node", "src/server.js"]
