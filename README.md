@@ -49,3 +49,5 @@ npm start                               # приложение на http://local
 | `failing-tests` | Включается баг, часть тестов падает | UNSTABLE |
 | `broken-step` | Вызывается несуществующий `npm run lint` | FAILURE |
 | `timeout` | Шаг ждёт 120 с при лимите 20 с | ABORTED |
+
+## Check
